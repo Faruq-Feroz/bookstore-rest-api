@@ -2,7 +2,6 @@
 # Bookstore REST API
 
 This is REST based API to list, add, update and delete books.
-As it for beginners there will be no 3rd party packages, authentication and DB
 
 
 ### Build and run
@@ -58,11 +57,3 @@ go build
 }
 
 ```
-
-## Credits and references
-
-1. [That DevOps Guy](https://www.youtube.com/c/MarcelDempers)
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
